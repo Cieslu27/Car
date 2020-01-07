@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1560251094 source:k:\zaliczenie\car.cpp
+	<iostream>
+	"Car.h"
+
+1560251158 k:\zaliczenie\car.h
+	<iostream>
+
+1560250736 source:k:\zaliczenie\main.cpp
+	<iostream>
+	<fstream>
+	"car.h"
+
+1560251158 source:g:\zaliczenie\car.cpp
+	<iostream>
+	"Car.h"
+
+1560252758 g:\zaliczenie\car.h
+	<iostream>
+
+1560250736 source:g:\zaliczenie\main.cpp
+	<iostream>
+	<fstream>
+	"car.h"
+
+1560251158 source:l:\c++ projekty\moje zaliczenie\car.cpp
+	<iostream>
+	"Car.h"
+
+1560252758 l:\c++ projekty\moje zaliczenie\car.h
+	<iostream>
+
+1560250736 source:l:\c++ projekty\moje zaliczenie\main.cpp
+	<iostream>
+	<fstream>
+	"car.h"
+
+1569907310 source:l:\123\c++ projekty\moje zaliczenie\car.cpp
+	<iostream>
+	"Car.h"
+
+1569905856 l:\123\c++ projekty\moje zaliczenie\car.h
+	<iostream>
+
+1569906438 source:l:\123\c++ projekty\moje zaliczenie\main.cpp
+	<iostream>
+	<fstream>
+	"car.h"
+
+1577782298 source:e:\123\c++ projekty\pliki ze studiów\moje zaliczenie programowania obiektowego\car.cpp
+	<iostream>
+	<fstream>
+	"Car.h"
+
+1577782180 e:\123\c++ projekty\pliki ze studiów\moje zaliczenie programowania obiektowego\car.h
+	<iostream>
+
+1577782180 source:e:\123\c++ projekty\pliki ze studiów\moje zaliczenie programowania obiektowego\main.cpp
+	<iostream>
+	"car.h"
+
